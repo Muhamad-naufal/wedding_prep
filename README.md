@@ -21,7 +21,6 @@ Project ini dibangun dengan stack sederhana namun powerful:
 - **Frontend**: HTML, CSS, TailwindCSS, Bootstrap
 - **Backend**: PHP Native
 - **Database**: MySQL
-- **Hosting**: (opsional, bisa dipasang di localhost atau hosting seperti InfinityFree)
 
 ---
 
